@@ -1,3 +1,3 @@
 .vscode
-venv
+scan_github/venv
 demo1.py
